@@ -1,0 +1,11 @@
+/* NetflixSans */
+@font-face {
+    font-family: "NetflixSans";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local("NetflixSans"),
+      url("/fonts/Netflix/NetflixSans-Regular.woff2") format("woff2"),
+      url("/fonts/Netflix/NetflixSans-Regular.woff") format("woff"),
+      url("/fonts/Netflix/NetflixSans-Regular.ttf") format("ttf");
+  }
